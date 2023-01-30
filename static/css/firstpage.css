@@ -1,0 +1,40 @@
+
+body{
+  background-color: black;
+  text-align: center;
+  font-family: serif;
+
+  font-stretch: condensed;
+  font-variant: inherit;
+  font-variant-ligatures: none;;
+
+
+
+  font-size: 30px;
+
+}
+a:link{
+  text-decoration: none;
+
+  
+
+
+}
+
+a{
+  color: grey;
+
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
+.s1{
+
+
+}
+.s2{
+  position: relative;
+  
+  bottom: 100px;
+
+}
